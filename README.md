@@ -446,14 +446,16 @@ timeline
 
 <div align="center">
   <a href="https://github.com/engineersurajsahani">
-    <img src="https://github-readme-stats.vercel.app/api?username=engineersurajsahani&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Suraj's GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=engineersurajsahani&theme=radical&hide_border=false" alt="Suraj's GitHub Streak" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=engineersurajsahani&show_icons=true&theme=radical&hide_border=false&count_private=true" alt="Suraj's GitHub Stats" width="48%" />
+    <img src="https://streak-stats.demolab.com?user=engineersurajsahani&theme=radical&hide_border=false" alt="Suraj's GitHub Streak" width="48%" />
   </a>
 </div>
 
+<br/>
+
 <div align="center">
   <a href="https://github.com/engineersurajsahani">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineersurajsahani&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=engineersurajsahani&layout=compact&theme=radical&hide_border=false" alt="Top Languages" width="48%" />
   </a>
 </div>
 
